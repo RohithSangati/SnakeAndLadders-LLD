@@ -1,2 +1,3 @@
 # SnakeAndLadders-LLD
-Snake And Ladders using Lowlevel Design
+
+Low level design of Snake and ladders game using java and oops concepts.
